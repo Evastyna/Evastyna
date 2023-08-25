@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Eva.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning JavaScript on Udemy and FreeCodeCamp.
+- 👋 Hi, I’m Eva. An interesting junior web developer.
+- 👀 I am a graduate of Sociology and Anthropology.
 - 💞️ I’m looking to collaborate on some frontend projects.
 - 📫 You can reach me on eva.ohagwam@gmail.com
 
